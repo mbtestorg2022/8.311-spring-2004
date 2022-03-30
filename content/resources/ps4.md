@@ -4,6 +4,7 @@ description: Linear and circular polarization, Fresnel?s formula, EM waves in pl
   skin effct, group velocity, surface EM waves.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-311-electromagnetic-theory-spring-2004/e2e91f31824ce032a15ce40cba93d4a6_ps4.pdf
 file_type: application/pdf
+parent_uid: d69099d0-8599-2f5d-17ae-b9f79f728d07
 resourcetype: Document
 title: ps4.pdf
 uid: e2e91f31-824c-e032-a15c-e40cba93d4a6

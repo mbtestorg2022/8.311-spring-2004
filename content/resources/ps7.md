@@ -4,6 +4,7 @@ description: Lorentz force, gauge invariance, free relativistic particle, canoni
   action, nonrelatavistic kepler problem.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-311-electromagnetic-theory-spring-2004/d365ec581ef1e4b760d08525c6046d3f_ps7.pdf
 file_type: application/pdf
+parent_uid: d69099d0-8599-2f5d-17ae-b9f79f728d07
 resourcetype: Document
 title: ps7.pdf
 uid: d365ec58-1ef1-e4b7-60d0-8525c6046d3f
